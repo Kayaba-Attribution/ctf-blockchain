@@ -8,7 +8,7 @@ Algunos desafíos se derivan de mis hazañas (por ejemplo, [Ethernaut](src/Ether
 
 Si hay descripciones incorrectas, les agradecería que me lo hiciera saber a través de un issue o PR
 
-| English | [日本語](README_JA.md) | [Español](README_JA.md) |
+| English | [日本語](README_JA.md) | [Español](README_ES.md) |
 | ------- | ---------------------- | ---------------------- |
 
 ---

@@ -8,7 +8,7 @@ Some challenges come with my exploits (e.g., [Ethernaut](src/Ethernaut/), [Parad
 
 If there are any incorrect descriptions, I would appreciate it if you could let me know via issue or PR.
 
-| English | [日本語](README_JA.md) | [Español](README_JA.md) |
+| English | [日本語](README_JA.md) | [Español](README_ES.md) |
 | ------- | ---------------------- | ---------------------- |
 ---
 
